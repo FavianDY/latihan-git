@@ -1,0 +1,3 @@
+Latihan Git
+
+1.melakukan git push
