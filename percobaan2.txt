@@ -3,3 +3,5 @@ hello world
 ini percobaan2
 
 ini update percobaan2
+
+update main
