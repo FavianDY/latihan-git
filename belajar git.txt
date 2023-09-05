@@ -1,3 +1,5 @@
 Latihan Git
 
-1.melakukan git push
+1. melakukan git push
+
+2. melakukan git branch
